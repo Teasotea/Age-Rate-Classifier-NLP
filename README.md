@@ -1,4 +1,4 @@
-# Age rate classifier NLP
+# Age Rate classifier NLP
 
 ### Age rate of movies recognition
 Dataset with plots of movies from Wikipedia from the years 1915 to 2017: 
