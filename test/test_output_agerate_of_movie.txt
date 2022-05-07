@@ -1,0 +1,44 @@
+Sample output for 'Movie age rate classifier':
+
+    1) Kid's cartoon:
+    name: The Elf Rocket
+    genre: cartoon
+    description: Ben and Holly live in the little English kingdom of Fairyland. Cute cartoons, easy and simple English.
+    Prediction last time: 0.28529498
+    
+    name: Thomas & Friends: Spills & Thrills
+    genre: animation, family
+    description: The Island of Sodor is always bustling with activity, yet when the engines try to be "Really Useful" they often find themselves in some messy muddles. James tries to prove he's not afraid of the dark, or too vain to haul smelly fish, but when he pulls the nighttime Kipper Express he gets more than he bargained for. Stephen's need for speed and Salty's need to impress sends them both into some sticky, slippery situations. Hiro shows Diesel that nice engines do finish first and Sir Topham Hatt shows you can't cry over spilled milk - twice. It's full steam ahead for Spills & Thrills on Sodor. Featuring the episodes: Away from the Sea, The Smelly Kipper, No More Mr Nice Engine, Gone Fishing, Thomas' Shortcut and The Afternoon Tea Express. On the Australian release, Thomas' Shortcut is replaced by Jitters and Japes.
+    Prediction last time: 0.4299758
+    
+    2) Adult movies:
+    series: https://reelgood.com/list/mature/on-netflix 
+    
+    name: Basic Instinct
+    genre: drama, mystery, thriller
+    description: Novelist Catherine Tramell is once again in trouble with the law, and Scotland Yard appoints psychiatrist Dr. Michael Glass to evaluate her. Though, like Detective Nick Curran before him, Glass is entranced by Tramell and lured into a seductive game.
+    Prediction last time: 0.52755326
+    
+   name: Strip Down, Rise Up
+    genre: drama, documentary
+    description: The feature documentary follows women of all walks of life, all ages and ethnic backgrounds, as they shed trauma, body image shame, sexual abuse and other issues locked in their bodies, and embark on a journey to reclaim themselves. The film also gives a rare window into the world of Pole artistry and expression.
+    Prediction last time: 0.61198604
+    
+    name: Dark
+    genre: Drama, Mystery 
+    description: A missing child causes four families to help each other for answers. What they could not imagine is that this mystery would be connected to innumerable other secrets of the small town.
+    tags: Mature, Police, Religion
+    Prediction last time: 0.5561986
+    
+    3) Easy to confuse (~PG):
+    
+     name: Star Trek Beyond
+    genre: Science-Fiction, LGBTQ, Action, Adventure
+    rated: 13+ (PG-13)
+    description: The USS Enterprise crew explores the furthest reaches of uncharted space, where they encounter a mysterious new enemy who puts them and everything the Federation stands for to the test.
+    Prediction last time: 0.48769537
+    
+    name: The Hunger Games: Catching Fire
+    genre: Science-Fiction, Action, Adventure
+    description: Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a "Victor's Tour" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.
+    Prediction last time: 0.48109508
